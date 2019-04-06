@@ -1,1 +1,3 @@
-Modificación desde Windows
+Escribo otra cosa contra la que ya estaba ok
+Una segunda linea desde Git
+y una tercer linea igual
